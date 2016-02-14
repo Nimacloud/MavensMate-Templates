@@ -313,6 +313,19 @@
                 }
             ]
         }
+        {  
+            "name":"Lightning Page Header Footer",
+            "file_name":"LightningPageHeader.page",
+            "description":"Lightning Ready Page with Header and Footer",
+            "author":"Nimacloud",
+            "params":[  
+                {  
+                    "name":"api_name",
+                    "description":"Visualforce Page API Name",
+                    "default":"MyLightningVisualforcePage"
+                }
+            ]
+        }        
     ],
     "ApexTrigger":[  
         {  
